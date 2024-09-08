@@ -47,7 +47,7 @@ The dataset is available for download [here](https://drive.google.com/file/d/1er
 ## Usage
 ### Prerequisites
 To run this project, you'll need:
-- Python 3.x installed
+- Python 3 installed
 - The following Python libraries installed:
   - `pandas`
   - `scikit-learn`
